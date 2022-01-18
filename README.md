@@ -9,6 +9,6 @@ Android Studio
 # Preview
 
 
-Images/image.jpg
+[!image](https://github.com/PrabhjeeSingh/Meme-App/blob/main/Images/image.jpg)
 
 
