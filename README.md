@@ -6,6 +6,9 @@ It uses API which collect memes from reddit.
 # IDE used 
 Android Studio
 
+# Programming Language Used
+Kotlin
+
 # Preview
 
 
